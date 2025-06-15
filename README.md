@@ -121,6 +121,5 @@ void applyNegativeEffect() {
   }
   updatePixels();
 }
-OpenProcessing sayfasında Richard Bourne'nun Reptar Owns The Street isimli çalışmasından referans aldım sprite/frame (çerçeve) animasyon ve negatif efekt ekleme konusunda. Arka plandaki bina yapay zeka ile oluşturduğum (tabii eksik bianaları yerleştirdim ve genişlettim)
-ve üzerinden geçtiğim binadır, degrade efektiyle camlarının tonlarını değiştirdim. Onun dışında bütün çizimler benim çizimlerim. Kong ve Godzilla'nın bütün çizimleri bana ait, eskiz defteri üzerinde çizdim bütün sprite'ları. Bir pde dosyasında ses kullandım, kullandığım sesler: Kong hırlaması, Godzilla hırlaması ve
+OpenProcessing sayfasında Richard Bourne'nun Reptar Owns The Street isimli çalışmasından referans aldım sprite/frame (çerçeve) animasyon ve negatif efekt ekleme konusunda. Arka plandaki bina yapay zeka ile oluşturduğum (tabii eksik binaları yerleştirdim ve genişlettim) ve üzerinden geçtiğim binadır, degrade efektiyle camlarının tonlarını değiştirdim. Onun dışında bütün çizimler benim çizimlerim. Kong ve Godzilla'nın bütün çizimleri bana ait, eskiz defteri üzerinde çizdim bütün sprite'ları. Bir pde dosyasında ses kullandım, kullandığım sesler: Kong hırlaması, Godzilla hırlaması ve
 yumruk ses efektidir. 

@@ -1,5 +1,5 @@
 PImage[] imgKong = new PImage[9];
-PImage[] imgGodzilla = new PImage[9];
+PImage[] imgGodzilla = new PImage[9]; 
 PImage img1;
 PImage img2;
 PImage img3; 
@@ -8,7 +8,11 @@ PImage img5;
 PImage img6;
 PImage img7;
 
-float cloudX1, cloudX2, waveX1, waveX2;
+float cloudX1;
+float cloudX2;
+float waveX1;
+float waveX2;
+
 int kongFrame = 0, godzillaFrame = 0, frameCounter = 0;
 
 boolean gameStarted = false;
